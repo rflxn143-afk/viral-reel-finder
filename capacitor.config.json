@@ -1,0 +1,11 @@
+{
+  "appId": "com.viralreelfinder.app",
+  "appName": "Viral Reel Finder",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
